@@ -1,1 +1,1 @@
-# Blinkit_Analysis
+This end-to-end project showcases the complete data analytics pipeline, starting from raw data cleaning using SQL, to exploratory data analysis (EDA) and insights generation using Python, and finally to interactive data visualization using Power BI, a leading Business Intelligence (BI) tool.
